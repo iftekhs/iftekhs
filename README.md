@@ -1,11 +1,7 @@
-<h1 align="center">Hi 👋, I'm Iftekhar Ahmad</h1>
-<h3 align="center">I’m a passionate and dedicated web developer working in this industry for more than 2 years and studied at programming-hero.com. Looking to join an organization where I can utilize my skills in web development. I am a fast-building developer who works well in a team. I have worked with data structures and I am really interested in algorithms and high-level technologies. I have very good visual thinking skills also a very organized developer. I have worked with real clients in real-time directly speaking to them and getting the work done as per requirement. Overall my development skills and my personality are very stable. I can code very efficiently and I like to bring creativity to my work. I want to be an expert programmer with various kinds of skills and hope to join one of the leading tech companies.</h3>
+<h1>Hi 👋, I'm Iftekhar Ahmad</h1>
+<h3>I’m a passionate and dedicated web developer working in this industry for more than 2 years and studied at programming-hero.com. Looking to join an organization where I can utilize my skills in web development. I am a fast-building developer who works well in a team. I have worked with data structures and I am really interested in algorithms and high-level technologies. I have very good visual thinking skills also a very organized developer. I have worked with real clients in real-time directly speaking to them and getting the work done as per requirement. Overall my development skills and my personality are very stable. I can code very efficiently and I like to bring creativity to my work. I want to be an expert programmer with various kinds of skills and hope to join one of the leading tech companies.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iftekhs&label=Profile%20views&color=0e75b6&style=flat" alt="iftekhs" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iftekhs" alt="iftekhs" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/https://twitter.com/iftekhs" target="blank"><img src="https://img.shields.io/twitter/follow/https://twitter.com/iftekhs?logo=twitter&style=for-the-badge" alt="https://twitter.com/iftekhs" /></a> </p>
+<p align="left"> <a href="https://twitter.com/iftekhs" target="blank"><img src="https://img.shields.io/twitter/follow/iftekhs?logo=twitter&style=for-the-badge" alt="iftekhs" /></a> </p>
 
 - 🔭 I’m currently working on **Wave**
 
@@ -25,7 +21,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/https://twitter.com/iftekhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="https://twitter.com/iftekhs" height="30" width="40" /></a>
+<a href="https://twitter.com/iftekhs" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="iftekhs" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/iftekhs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/iftekhs/" height="30" width="40" /></a>
 <a href="https://instagram.com/https://www.instagram.com/iftekhs/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/iftekhs/" height="30" width="40" /></a>
 <a href="https://www.behance.net/https://www.behance.net/iftekharahmad5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="https://www.behance.net/iftekharahmad5" height="30" width="40" /></a>
@@ -39,5 +35,3 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iftekhs&show_icons=true&locale=en&layout=compact" alt="iftekhs" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iftekhs&show_icons=true&locale=en" alt="iftekhs" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iftekhs&" alt="iftekhs" /></p>
