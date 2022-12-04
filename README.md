@@ -1,7 +1,5 @@
 ### Hi is what iam working on! 👋
 
-<!--
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... Wave
@@ -12,4 +10,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ... hello@iftekharahmad.com
 - 😄 Pronouns: ... He/Him
 - ⚡ Fun fact: ... Creating projects constantly
--->
+
