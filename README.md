@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **hello@iftekharahmad.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1sfsB0hi5xcpZfHG2FY1L5wtlfTO3LTPw/view?usp=sharing](https://drive.google.com/file/d/1sfsB0hi5xcpZfHG2FY1L5wtlfTO3LTPw/view?usp=sharing)
+- 📄 Know about my experiences [View My Resume](https://drive.google.com/file/d/1sfsB0hi5xcpZfHG2FY1L5wtlfTO3LTPw/view?usp=sharing)
 
 - ⚡ Fun fact **Creating projects constantly!**
 
