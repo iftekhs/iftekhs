@@ -1,5 +1,4 @@
-
-
+<img src='./images/banner.gif'>
 
 - 🔭 I’m currently working on **Wave**
 
