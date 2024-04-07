@@ -1,4 +1,4 @@
-<img src='./images/banner.gif'>
+<img src='./images/background.jpg'>
 
 <h1 align='center'>👋Greetings! I'm Iftekhar Ahmad</h1>
 <p align='center'>A Raw Programming is what i do as i love building customized Web application. In this era of SAAS ruling the Digital Industry i believe as a full-stack web developer my skillset will help building impactful software products.</p>
