@@ -84,7 +84,9 @@
 <!-- 
 <div align="center">
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/Iftekharahmad?theme=nord&font=Roboto%20Mono)
+<img src="https://d3frb2mbny706b.cloudfront.net/iftekhs" width="600">
+
+# ![LeetCode Stats](https://leetcard.jacoblin.cool/Iftekharahmad?theme=nord&font=Roboto%20Mono)
 
 </div>
 -->
